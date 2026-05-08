@@ -322,4 +322,3 @@ Install dev dependencies and run tests:
 python3 -m pip install -e ".[dev]"
 python3 -m pytest -q
 ```
-# github-agent-sdk
