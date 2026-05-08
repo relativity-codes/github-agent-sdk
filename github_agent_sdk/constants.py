@@ -1,0 +1,4 @@
+BASE_URL = "https://api.github.com"
+API_VERSION = "2022-11-28"
+DEFAULT_TIMEOUT = 60
+DEFAULT_USER_AGENT = "GitHubAgentSDK/1.0"
